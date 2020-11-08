@@ -3,7 +3,7 @@
 
 MACHINES = {
   :otuslinux => {
-        :box_name => "centos/7",
+        :box_name => "Centos_Selantyev-7-5",
         :ip_addr => '192.168.11.101',
 	:disks => {
 		:sata1 => {
